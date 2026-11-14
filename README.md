@@ -1,2 +1,2 @@
 # MYSQL
-#Set data name sever_sa
+#Set data name server_sa
